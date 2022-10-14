@@ -2,9 +2,7 @@
 
 /**
  *
- *  *main - entry point
- *
- *   *
+ *  *main - a script that use function puts
  *
  *    *Return: 0 after printing the function
  *
