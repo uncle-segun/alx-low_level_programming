@@ -1,18 +1,21 @@
 #include <stdio.h>
+
 /**
  *
- *  * main - Entry point
+ *  *main - entry point
  *
- *   *C program that prints exactly "Programming is like building a multilingual puzzle"
+ *   *
  *
- *    * Return: Always 0 (Success)
+ *    *Return: 0 after printing the function
  *
- *     */
+ */
 
 int main(void)
 
 {
 
-	    return (0);
-puts("\"Programming is like building a multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
+
+	return (0);
+
 }
