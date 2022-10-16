@@ -25,7 +25,7 @@ int main(void)
 	else if (n<0)
 	printf ( "%d n is negative/n", n);
 	
-	else (n==0);
+	else (n==0)
 	printf("%d n is zero/n", n);
 	return (0);
 }
