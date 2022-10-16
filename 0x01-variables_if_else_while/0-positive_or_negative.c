@@ -18,11 +18,14 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MA
 	X / 2;
+
 	if (n>0)
-	printf( "%d n is zero/n", n);
-	else if (n==0)
-	printf ( "%d n is zero/n", n);
-	else (n<0)
-	printf("%d n is negative/n,);
+	printf( "%d n is positive/n", n);
+	
+	else if (n<0)
+	printf ( "%d n is negative/n", n);
+	
+	else (n==0)
+	printf("%d n is zero/n,);
 	return (0);
 }
