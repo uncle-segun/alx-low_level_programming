@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
- *
  *main - a script that use function puts
- *
- *    *Return: 0 after printing the function
+ * Description - Script for puts
+ *Return: 0 after printing the function
  *
  */
 
