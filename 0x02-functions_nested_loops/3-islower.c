@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /**
 * _islower - Entry point
 *  Description: checks is a character is lowercase
@@ -11,11 +11,8 @@
 int _islower(int c)
 {
 
-	int i = 'a';
-	for (i = 'a'; i <= 'z'; i++)
-	{
-		_putchar(c);
-	}
-
-		_putchar('\n');
-}		
+		if (c >= 'a' && c <= 'z')
+			return (1);
+		else
+			return (0);
+}
