@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- *
- * jack_bauer - prints time table in this format: HH:MM
- *
- *  Return: the sum of two numbers.
- */
+*
+* jack_bauer - prints time table in this format: HH:MM
+*
+*  Return: the sum of two numbers.
+*/
 
 void jack_bauer(void)
 
